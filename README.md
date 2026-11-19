@@ -84,5 +84,5 @@ Open `04_PowerBI_Dashboard/E_Com.pbix` with Power BI Desktop.
 
 ## Author
 
-**Purushothaman S.**
-[GitHub](https://github.com/PurushothamanS712)
+**Gokul Raj v.**
+[GitHub](https://github.com/gokulvad1234)
